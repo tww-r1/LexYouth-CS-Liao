@@ -1,5 +1,5 @@
-/*TODO1: create a compound interest caculator (ask for intial amount, interest rate, etc)
-    TODO2: using a pointer to the output of said compound interest caculator, print a pyramid of #'s (left leaning) 
+/*TODO1: create a compound interest calculator (ask for the initial amount, interest rate, etc)
+    TODO2: using a pointer to the output of said compound interest calculator (turn it into an int so we can use it), print a pyramid of #'s (left-leaning) 
         TODO3: (taken from USACO COWsignal)
         Bessie and her cow friends are playing as their favorite cow superheroes. Of course, everyone knows that any self-respecting superhero needs a signal to call them to action. Bessie has drawn a special signal on a sheet of M×N
         paper (1 <= M <= 10,1 <= N <= 10), but this is too small, much too small! 
