@@ -1,4 +1,5 @@
 #include <iostream>
+#include <vector>
 
 // TODO 1: take in 5 intergers [note: cin splits 10 123 input as 10 then cin  again for 123] Use this formatting to output there lowest out of all 5 in '/' form
 // example:
