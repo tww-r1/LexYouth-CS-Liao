@@ -4,7 +4,7 @@
 // system memory and implementation (mono-directional cache)
 /*
 
-TODO Primary:
+TODO Primary: (ignore the non-primary TODO's for now)
 no need to run, but create a boolean array of 100 elements. Set all even indices with as true. Shift upward (in terms of index #) (no need to refill the empty first bit)  3 times.
 Finally, apply and xor operation on the bit string and the boolean array called basic (fell free to searchi it up; I suggest using w3.) and convert the final array into binary and print it out
 */
@@ -15,6 +15,7 @@ int primary()
     {
         x = false;
     }
+    // code below:
 }
 
 // system memory and implementation
