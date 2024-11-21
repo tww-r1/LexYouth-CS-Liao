@@ -14,7 +14,8 @@ int main()
     }
     // you can edit the below stuff
 
-    // TODO 1: Sort the Array using bubble sort (algorithm introduced in class or binary tree search)
+    // finish the problem from class first (binary to hex converter before attempting the following)
+    //  TODO 1: Sort the Array using bubble sort (algorithm introduced in class or binary tree search)
 
     // TODO 2: Print me the average (very simple):
 
